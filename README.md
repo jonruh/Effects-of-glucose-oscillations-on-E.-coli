@@ -1,1 +1,1 @@
-# Transcriptional-biomarkers-of-Escherichia-coli-under-substrate-oscillation-at-high-cell-densities
+# Repeated glucose oscillations at high cell densities influence stress related functions of Escherichia coli
