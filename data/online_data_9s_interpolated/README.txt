@@ -1,0 +1,1 @@
+This directory requires comma separated files available from figshare.com.
