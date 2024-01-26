@@ -1,4 +1,4 @@
-# Repeated glucose oscillations at high cell densities influence stress related functions of Escherichia coli
+# Repeated glucose oscillations at high-cell-density influence stress related functions of Escherichia coli
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10514379.svg)](https://doi.org/10.5281/zenodo.10514379)
 
 Collection of jupyter notebooks and data files used for data processing and analysis related to the paper manuscript "Repeated glucose oscillations at high-cell-density influence stress related functions of Escherichia coli".
